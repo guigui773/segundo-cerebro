@@ -35,6 +35,12 @@ Os três links foram fornecidos como fontes audiovisuais. Os títulos, autores e
 
 Esses textos foram indicados como referências escritas para o tema. Antes da entrega, confira autoria, data de publicação e referências apresentadas nos artigos. A existência de um link, por si só, não comprova a confiabilidade de uma fonte.
 
+## Andamento do projeto
+
+**Status: em desenvolvimento.** Estou reunindo e organizando as demais informações e materiais para acrescentá-los ao repositório. O conteúdo será atualizado conforme as fontes forem conferidas e as evidências reais estiverem disponíveis.
+
+O mapa mental e o material visual já foram preparados localmente; os arquivos finais e demais evidências ainda serão adicionados ao repositório. Até lá, as pastas de materiais e evidências permanecem como espaços reservados.
+
 ## Pergunta registrada
 
 **Pergunta:** O que a tecnologia trouxe de melhoria para a sociedade?
